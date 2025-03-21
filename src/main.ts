@@ -33,6 +33,10 @@ perf.mark('code/willLoadMainBundle', {
 });
 perf.mark('code/didLoadMainBundle');
 
+// WE LOVE MICROSOFT!
+
+
+
 // Enable portable support
 const portable = configurePortable(product);
 
